@@ -1,3 +1,4 @@
+//javascript file
 const STORE = {
  questions: {
   accessibility: [
